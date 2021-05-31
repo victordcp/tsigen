@@ -15,7 +15,7 @@ export class PostgresqlProvider implements IDatabaseRepository {
   private client: Client;
 
   constructor(private configRepository: IConfigRepository) {
-    const cfg = configRepository.getConfig<IPGConfig>('postgresql');
+    const cfg = this.configRepository.getConfig<IPGConfig>('postgresql');
 
     try {
       this.client = new Client(cfg);
