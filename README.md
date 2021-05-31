@@ -1,2 +1,2 @@
 # tsigen
-A NodeJS simple application that generates Typescript interfaces based on one database.
+A simple NodeJS application that generates Typescript interfaces based on one database.
