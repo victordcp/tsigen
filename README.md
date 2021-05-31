@@ -11,7 +11,7 @@ This project was built TRYING to keep in mind the SOLID, DDD and Package-by-feat
 
 Edit the config.yml file corresponding to your database configurations.
 
-## Running Locally
+## Running (Locally)
 
 Make sure you have [Node.js](http://nodejs.org/) installed.
 
