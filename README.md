@@ -2,11 +2,10 @@
 A simple NodeJS application that generates Typescript interfaces based in one given database.
 
 This project was built TRYING to keep in mind the SOLID, DDD and Package-by-feature practices.
+
 ## Supported databases
-### Currently
-- [✔] PostgreSQL
-### TODO
-- [X] MySQL
+- [x] PostgreSQL
+- [] MySQL (TODO)
 
 ## Configuration 
 
