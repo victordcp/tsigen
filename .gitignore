@@ -81,10 +81,7 @@ typings/
 # Nuxt.js build / generate output
 .nuxt
 dist
-<<<<<<< HEAD
-=======
 build
->>>>>>> master
 
 # Gatsby files
 .cache/
@@ -106,12 +103,9 @@ build
 
 # TernJS port file
 .tern-port
-<<<<<<< HEAD
-=======
 
 .history/
 
 .vscode/
 
 mycfg.yml
->>>>>>> master
