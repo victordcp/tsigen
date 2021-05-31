@@ -25,6 +25,6 @@ npm run start # or build
 This is a simples one execution time
 
 ## Next steps
-- Fist of all, finish the main objective (currently not gerenating the interfaces)
+- First of all, finish the main objective (currently not gerenating the interfaces)
 - Review the project structure
 - Implement support to mode databases
