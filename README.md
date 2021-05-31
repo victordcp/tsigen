@@ -5,7 +5,7 @@ This project was built TRYING to keep in mind the SOLID, DDD and Package-by-feat
 
 ## Supported databases
 - [x] PostgreSQL
-- [] MySQL (TODO)
+- [ ] MySQL (TODO)
 
 ## Configuration 
 
