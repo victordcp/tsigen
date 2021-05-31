@@ -27,4 +27,4 @@ This is a simples one execution time
 ## Next steps
 - First of all, finish the main objective (currently not gerenating the interfaces)
 - Review the project structure
-- Implement support to mode databases
+- Implement support more databases
