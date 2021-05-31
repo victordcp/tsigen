@@ -1,0 +1,6 @@
+postgresql:
+  user: "user"
+  host: "hostadress"
+  database: "dbname"
+  password: "password"
+  port: 5432
