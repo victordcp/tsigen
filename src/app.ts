@@ -3,7 +3,7 @@ import { PostgresqlProvider } from "./repositories/implementations/PostgresqlPro
 import { YAMLProvider } from "./repositories/implementations/YAMLProvider";
 import { GetStructureUseCase } from "./useCases/getStructure/GetStructureUseCase";
 
-const yamlProvider = new YAMLProvider('mycfg.yml');
+const yamlProvider = new YAMLProvider();
 const pgProvider = new PostgresqlProvider(yamlProvider);
 const getStructureUseCase = new GetStructureUseCase(pgProvider);
 const getStructureController = new GetStructureController(getStructureUseCase);
